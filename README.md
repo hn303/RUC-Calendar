@@ -1,4 +1,4 @@
-下载 ./ruc-calendar-24-25.ics
+下载 [ruc-calendar-24-25.ics](./ruc-calendar-24-25.ics)到本地。
 
 ### Mac端操作
 - 打开 Apple Calendar。
