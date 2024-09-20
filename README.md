@@ -1,3 +1,5 @@
+下载 ./ruc-calendar-24-25.ics
+
 ### Mac端操作
 - 打开 Apple Calendar。
 - 在左侧面板中，点击任意日历的名称以显示所有日历列表。
